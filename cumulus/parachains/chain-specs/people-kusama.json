@@ -6,7 +6,10 @@
     "/dns/kusama-people-connect-0.polkadot.io/tcp/30334/p2p/12D3KooWQaqG5TNmDfRWrtH7tMsN7YeqwVkSfoZT4GkemSzezNi1",
     "/dns/kusama-people-connect-1.polkadot.io/tcp/30334/p2p/12D3KooWKhYoQH9LdSyvY3SVZY9gFf6ZV1bFh6317TRehUP3r5fm",
     "/dns/kusama-people-connect-0.polkadot.io/tcp/443/wss/p2p/12D3KooWQaqG5TNmDfRWrtH7tMsN7YeqwVkSfoZT4GkemSzezNi1",
-    "/dns/kusama-people-connect-1.polkadot.io/tcp/443/wss/p2p/12D3KooWKhYoQH9LdSyvY3SVZY9gFf6ZV1bFh6317TRehUP3r5fm"
+    "/dns/kusama-people-connect-1.polkadot.io/tcp/443/wss/p2p/12D3KooWKhYoQH9LdSyvY3SVZY9gFf6ZV1bFh6317TRehUP3r5fm",
+    "/dns/kusama-people-connect-1.polkadot.io/tcp/443/wss/p2p/12D3KooWKhYoQH9LdSyvY3SVZY9gFf6ZV1bFh6317TRehUP3r5fm",
+    "/dns/people-kusama-bootnode.turboflakes.io/tcp/30645/p2p/12D3KooWCR2Q8J2NFFfuofDak4zSgWkuBq7orP96HFaxLgAoDUBV",
+    "/dns/people-kusama-bootnode.turboflakes.io/tcp/30645/p2p/12D3KooWCR2Q8J2NFFfuofDak4zSgWkuBq7orP96HFaxLgAoDUBV"
   ],
   "telemetryEndpoints": null,
   "protocolId": null,
