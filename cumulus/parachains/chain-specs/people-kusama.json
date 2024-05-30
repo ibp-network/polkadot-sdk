@@ -7,6 +7,8 @@
     "/dns/kusama-people-connect-1.kusama.io/tcp/30334/p2p/12D3KooWKhYoQH9LdSyvY3SVZY9gFf6ZV1bFh6317TRehUP3r5fm",
     "/dns/kusama-people-connect-0.kusama.io/tcp/443/wss/p2p/12D3KooWQaqG5TNmDfRWrtH7tMsN7YeqwVkSfoZT4GkemSzezNi1",
     "/dns/kusama-people-connect-1.kusama.io/tcp/443/wss/p2p/12D3KooWKhYoQH9LdSyvY3SVZY9gFf6ZV1bFh6317TRehUP3r5fm",
+    "/dns/boot.gatotech.network/tcp/33240/p2p/12D3KooWLi9TzaKX4zniJpiM521PnYG4EocpdqjPpJUhXq9QGkRX",
+    "/dns/boot.gatotech.network/tcp/35240/wss/p2p/12D3KooWLi9TzaKX4zniJpiM521PnYG4EocpdqjPpJUhXq9QGkRX",
     "/dns/people-kusama-bootnode.radiumblock.com/tcp/30333/p2p/12D3KooWGP1C9iWTHnZyeaSjYZ7LdK8douXWc1n1dBv25XEASHaj",
     "/dns/people-kusama-bootnode.radiumblock.com/tcp/30336/wss/p2p/12D3KooWGP1C9iWTHnZyeaSjYZ7LdK8douXWc1n1dBv25XEASHaj"
   ],
