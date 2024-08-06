@@ -6,7 +6,9 @@
     "/dns/polkadot-people-connect-0.polkadot.io/tcp/30334/p2p/12D3KooWP7BoJ7nAF9QnsreN8Eft1yHNUhvhxFiQyKFEUePi9mu3",
     "/dns/polkadot-people-connect-1.polkadot.io/tcp/30334/p2p/12D3KooWSSfWY3fTGJvGkuNUNBSNVCdLLNJnwkZSNQt7GCRYXu4o",
     "/dns/polkadot-people-connect-0.polkadot.io/tcp/443/wss/p2p/12D3KooWP7BoJ7nAF9QnsreN8Eft1yHNUhvhxFiQyKFEUePi9mu3",
-    "/dns/polkadot-people-connect-1.polkadot.io/tcp/443/wss/p2p/12D3KooWSSfWY3fTGJvGkuNUNBSNVCdLLNJnwkZSNQt7GCRYXu4o"
+    "/dns/polkadot-people-connect-1.polkadot.io/tcp/443/wss/p2p/12D3KooWSSfWY3fTGJvGkuNUNBSNVCdLLNJnwkZSNQt7GCRYXu4o",
+    "/dns/people-polkadot-bootnode.radiumblock.com/tcp/30333/p2p/12D3KooWFN4F6uHGgopPr4C1qSmkcRLntBDE2kLXypbLtSLdRFKd",
+    "/dns/people-polkadot-bootnode.radiumblock.com/tcp/30336/wss/p2p/12D3KooWFN4F6uHGgopPr4C1qSmkcRLntBDE2kLXypbLtSLdRFKd"
   ],
   "telemetryEndpoints": null,
   "protocolId": null,
